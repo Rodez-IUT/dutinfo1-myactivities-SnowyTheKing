@@ -1,1 +1,1 @@
-CREATE SEQUENCE id_generator START 100
+CREATE SEQUENCE id_generator START 100;
